@@ -8,8 +8,8 @@
     "Autofac.Extensions.DependencyInjection": "4.0.0",
     "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
     "NETStandard.Library": "1.6.0",
-    "Ofl.Data": "1.0.1",
-    "Ofl.Data.Contracts": "1.0.1"
+    "Ofl.Data": "1.0.3",
+    "Ofl.Data.Contracts": "1.0.2"
   },
   "frameworks": {
     "netstandard1.3": {}

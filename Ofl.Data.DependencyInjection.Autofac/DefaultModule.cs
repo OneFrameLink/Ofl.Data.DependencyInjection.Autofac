@@ -1,9 +1,7 @@
 ﻿using System;
 using Autofac;
 using Ofl.Data.EntityFramework;
-using Ofl.Data.EntityFramework.Contracts;
 using Ofl.Data.SqlClient;
-using Ofl.Data.SqlClient.Contracts;
 
 namespace Ofl.Data.DependencyInjection.Autofac
 {
