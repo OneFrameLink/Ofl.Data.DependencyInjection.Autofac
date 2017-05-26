@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.1.0" />
-    <PackageReference Include="Microsoft.NETCore.Portable.Compatibility" Version="1.0.1" />
     <PackageReference Include="Ofl.Data" Version="2.0.9" />
     <PackageReference Include="Ofl.Data.Abstractions" Version="1.0.3" />
   </ItemGroup>
